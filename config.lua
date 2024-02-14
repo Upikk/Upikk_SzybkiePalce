@@ -1,6 +1,6 @@
 Config = {}
 
-Config.AnswerInterval = 20 -- CO ILE CZASU SIE BEDZIE WYSYŁAĆ (W SEKUNDACH)
+Config.AnswerInterval = 900 -- CO ILE CZASU SIE BEDZIE WYSYŁAĆ (W SEKUNDACH)
 
 Config.Texts = {
     "wyrewolwerowany rewolwerowiec wyrewolwerował wyrewolwerowanego rewolwerowca",
